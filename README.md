@@ -9,3 +9,4 @@ by [Michael Hartl](http://michaelhartl.com/).
 To Do
 
 * Do the advanced exercise for 3.5 (switch development to use local Pg)
+* Do the advanced excuse (dry up shared examples, and click links) from chapter 5
